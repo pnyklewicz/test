@@ -1,0 +1,4 @@
+imie,nazwisko,kategorie,numer,uwagi,status,urlop_od,urlop_do,choroba_od,choroba_do
+Jan,Kowalski,C,123456789,,dostępny,,,, 
+Anna,Nowak,C+E,987654321,,urlop,2025-06-01,2025-06-14,, 
+Piotr,Zieliński,B,555666777,,choroba,,,2025-05-01,2025-05-10
